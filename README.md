@@ -1,0 +1,3 @@
+This project presents a simple implementation of a Vacuum Cleaner AI Model using a reflex agent approach in Artificial Intelligence. The system simulates an environment with two rooms, where each room can either be clean or dirty. The vacuum cleaner agent observes its current location and the condition of the room, then performs actions such as cleaning or moving to another room based on predefined rules.
+
+The main goal of the agent is to ensure that both rooms are clean while demonstrating intelligent decision-making. This project helps in understanding fundamental AI concepts such as agents, environment, perception, state representation, and action-based problem solving in a simple and practical way.
